@@ -17,7 +17,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 The motivation behind undertaking this project was to explore the possibility of building Convolutional Neural Network (CNN) models for image recognition within the field of computer-aided medical diagnosis.
 
-Despite the relative accessibility of X-ray machines, medical expertise in the area of radiology required to make diagnoses is scarce: particularly in developing nations.
+Despite the relative accessibility of X-ray machines, medical expertise in the area of radiology required to make diagnoses is scarce, particularly in developing nations.
 
 Implementing AI solutions in this field and thereby reducing the reliance on human intervention could facilitate a crucial stage in development.
 
@@ -29,7 +29,7 @@ Since the training data set was too large to practically upload, the notebook us
 
 Please note that using the Kaggle API requires the setup of an authentication token, which can be done by following the instructions linked [here](https://www.kaggle.com/docs/api).
 
-Alternatively, those who wish to run the code without using the API can simply comment out the second code cell, download the data set directly from the Kaggle page linked in the acknowledgements section, and rename the zip file `pulmonary-chest-xray-abnormalities.zip`.
+Alternatively, those who wish to run the code without using the API can simply comment out the second code cell, download the data set directly from the Kaggle page linked in the acknowledgements section, and rename the zip file `pulmonary-chest-xray-abnormalities.zip`, storing it in the same directory as the notebook.
 
 ## Interpretation and Discussion of Results <a name="results"></a>
 

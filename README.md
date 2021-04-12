@@ -33,7 +33,7 @@ Alternatively, those who wish to run the code without using the API can simply c
 
 ## Interpretation and Discussion of Results <a name="results"></a>
 
-A detailed discussion of the motivation, methodology, and results of the project can be found in the Medium post linked [here]().
+A detailed discussion of the motivation, methodology, and results of the project can be found in the Medium post linked [here](https://towardsdatascience.com/detecting-pulmonary-abnormalities-in-chest-x-rays-47f3bf2a8499).
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
